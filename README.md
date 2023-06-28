@@ -1,4 +1,4 @@
-# The-Movie-Cinema
+# WE WATCH - Movie Recommendation System and sentiment analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
